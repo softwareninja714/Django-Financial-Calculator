@@ -1,21 +1,29 @@
-# web-calculator-that-calculates-the-optimal-amount-of-time-to-compound-a-cryptocurrency-yield-farming
-#### 1. Git Clone
-git clone.
+# Django Financial Calculator
+## Clone Git
+- git clone.
 ------
 
-#### 2. Move to calculator folder.
-cd calculator
+## Move to calculator folder.
+- cd calculator
 --------
 
-#### 3. Set up virtual environment and Run it
-python -m venv env
-env\scripts\activate
+## Set up virtual environment and Run it
+- python -m venv env
+- env\scripts\activate
 --------
 
-#### 4. Install the dependencies.
-pip install -r requirements.txt
+## Install the dependencies.
+- pip install -r requirements.txt
 --------
 
-#### 5. Setting environment variable.
+## Setting environment variable in .env file.
+----------------
+
+## Run
+- python manage.py runserver
+----
+
+## Browse
+- localhost:8000
 
 
